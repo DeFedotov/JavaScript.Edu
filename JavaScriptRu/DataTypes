@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<script>
+'use strict'
+
+/*let message = 'hello';
+alert("not a number"/2)
+*/
+
+/*let str = "Hello";
+let str2 = 'Hello, World';
+let phrase = `${str}, World!`;
+alert(phrase);
+*/
+
+//let value = true;
+//alert(typeof value);
+//value = String(value);
+//alert(typeof value);
+
+//let str = "123";
+//alert(typeof str);
+//let num = Number(str);
+//alert(typeof num);
+
+//alert("" + 1 + 0);	//10
+//alert("" - 1 + 0);	//-1
+//alert(true + false);	//1
+//alert(6 / "3");		//2
+//alert("2" * "3");		//6
+//alert(4 + 5 + "pm");  //9pm
+//alert("$" + 4 + 5);   //$45
+//alert("4" - 2);		//2
+//alert("4px" - 2);		//NaN
+//alert(7/0);			//Infinity
+//alert(" -9 " + 5);	//-9 5
+//alert(" -9 " - 5 );	//-14
+//alert(null + 1);		//1
+//alert(undefined + 1);	//NaN
+
+</script>
