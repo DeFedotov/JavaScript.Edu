@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<script>
+'use strict'
+
+//alert( 2 > 1 ); //  true
+//alert( 2 == 1 );  //  false
+//alert( 2 != 1 );  //  true
+
+//let result = 5 > 4;
+//alert( result );  //  true
+
+//  strings
+//alert( 'Я' > 'А');  //  true
+//alert( 'Кот' > 'Код' ); //  true
+//alert( 'Сонный' > 'Сон' );  //  true
+
+//  various types
+//alert( '2' > 1 ); //  true
+//alert ('01' == 1); // true
+
+//alert(true == 1); //  true
+//alert(false == 0);  //  true
+
+//strict equality
+//alert(0 === false); //  false
+//  !!!
+//alert(null === undefined);  //  false
+//alert(null == undefined); //  true
+
+</script>
